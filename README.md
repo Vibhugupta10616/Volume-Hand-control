@@ -1,7 +1,12 @@
 # Hand-Volume-Control
 In this project I have built an OpenCV application in which a user can control his system's (laptop/pc) volume by making
 some Hand Gestures.<br>
-In this basically I explored Hand Tracking with the help of MediaPipe
+
+### Introduction :
+This project is a use case of Hand Tracking technology
+As soon as the user shows up his hand in the video camera the application detects it and draws a bounding box around the hand.
+Then according to the distance between user's Index finger and Thumb it displays the volume in the volume bar on the screen, to set
+this volume as the system's volume user has to bend his pinky finger simultaneously.
 
 ### Demo :
 

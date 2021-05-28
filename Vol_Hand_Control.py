@@ -67,9 +67,9 @@ while True:
             if not fingers[4]:
                 volume.SetMasterVolumeLevelScalar(vol_perc / 100, None)
                 cv2.circle(img, (line_info[4], line_info[5]), 5, (255, 255, 0), cv2.FILLED)
-                vol_color = (0, 165, 255)
+                vol_color = (135, 0, 255)
             else:
-                vol_color = (0, 165, 255)
+                vol_color = (135, 0, 255)
 
             # Min - Max Vol Button Color
             if len_line < min_dist:

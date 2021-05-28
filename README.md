@@ -9,7 +9,7 @@ Then according to the distance between user's Index finger and Thumb it displays
 this volume as the system's volume user has to bend his pinky finger simultaneously.
 
 ### Demo :
-<img src="Demo.gif" alt="this slowpoke moves"  width="400" height = "300">
+<img src="Demo.gif" alt="this slowpoke moves"  width="720" height = "480">
 
 
 ### Main Libs Used :

@@ -4,7 +4,7 @@ some Hand Gestures.<br>
 
 ### Introduction :
 This project is a use case of Hand Tracking technology. <br>
-As soon as the user shows up his hand in the video camera the application detects it and draws a bounding box around the hand.
+As soon as the user shows up his hand in the camera the application detects it & draws a bounding box around the hand.
 Then according to the distance between user's Index finger and Thumb it displays the volume in the volume bar on the screen, to set
 this volume as the system's volume user has to bend his pinky finger simultaneously.
 

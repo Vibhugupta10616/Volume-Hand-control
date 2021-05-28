@@ -9,6 +9,8 @@ Then according to the distance between user's Index finger and Thumb it displays
 this volume as the system's volume user has to bend his pinky finger simultaneously.
 
 ### Demo :
+<img src="Vol Hand Control/Demo.gif" alt="this slowpoke moves"  width="250" />
+
 
 ### Main Libs Used :
 - OpenCV (for image processing and drawing)

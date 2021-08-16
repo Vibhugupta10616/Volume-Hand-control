@@ -12,9 +12,9 @@ this volume as the system's volume user has to bend his pinky finger simultaneou
 <img src="Demo.gif" alt="this slowpoke moves"  width="780" height = "480">
 
 ### Main Libs Used :
-- OpenCV (for image processing and drawing)
-- Mediapipe (for Hand Tracking)
-- Pycaw (to link up with the system's volume)
+- OpenCV lib(for image processing and drawing)
+- Mediapipe lib(for Hand Tracking)
+- Pycaw lib(to link up with the system's volume)
 
 
 
